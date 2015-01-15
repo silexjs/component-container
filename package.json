@@ -1,0 +1,36 @@
+{
+	"name": "silex-component-container",
+	"version": "0.0.1",
+	"description": "[SILEX][COMPONENT] Service manager",
+	"author": "Valentin Allaire <valentin@sitexw.fr>",
+	"license": "MIT",
+	"keywords": [
+		"container",
+		"service",
+		"manager",
+		"silex",
+		"component"
+	],
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"directories": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/silexjs/component-container.git"
+	},
+	"bugs": {
+		"url": "https://github.com/silexjs/component-container/issues"
+	},
+	"homepage": "https://github.com/silexjs/component-container",
+	"autoload": {
+		"psr-4": {
+			"Silex\\Component\\Container": "./lib/"
+		}
+	}
+}
