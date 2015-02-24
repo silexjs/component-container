@@ -1,6 +1,6 @@
 {
 	"name": "silex-component-container",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "[SILEX][COMPONENT] Service manager",
 	"author": "Valentin Allaire <valentin@sitexw.fr>",
 	"license": "MIT",
